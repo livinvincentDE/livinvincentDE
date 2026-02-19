@@ -6,7 +6,7 @@
   <a href="mailto:livinvincent88@yahoo.co.in">
     <img src="https://img.shields.io/badge/Email-livinvincent88@yahoo.co.in-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=livin-vincent-693b40a6" target="_blank">
+  <a href="https://www.linkedin.com/in/livin-vincent-693b40a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Experience-12%2B%20Years-success?style=for-the-badge"/>
