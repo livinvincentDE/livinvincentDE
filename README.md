@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Livin Vincent</h1>
-<h3 align="center">🚀 Senior Data Engineer | Azure Cloud | Analytics Engineering</h3>
+<h3 align="center">🚀 Data Engineer | Azure Cloud | Analytics Engineering</h3>
 
 <p align="center">
   <a href="mailto:livinvincent88@yahoo.co.in">
