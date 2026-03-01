@@ -82,17 +82,6 @@
 - Built Positive/Negative/Neutral classifier
 - Delivered insights via Tableau dashboards
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=livinvincentDE&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livinvincentDE&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
