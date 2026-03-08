@@ -115,33 +115,11 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=livinvincentDE&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livinvincentDE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak Stats
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=livinvincentDE&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=livinvincentDE&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
