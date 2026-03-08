@@ -48,6 +48,7 @@
 <p>
 <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure Data Factory-FF4F12?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 </p>
 
