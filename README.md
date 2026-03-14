@@ -34,6 +34,19 @@
 
 ---
 
+# 🏅 Microsoft Certifications
+
+- **DP-900 – Microsoft Azure Data Fundamentals**  
+  Covers core data concepts, relational and non-relational data, and Azure data services.
+
+- **DP-700 – Microsoft Fabric Data Engineer Associate**  
+  Focuses on building data pipelines, lakehouses, and data engineering solutions in Microsoft Fabric.
+
+- **DP-600 – Microsoft Fabric Analytics Engineer Associate**  
+  Focuses on analytics engineering, semantic models, and Power BI in Microsoft Fabric.
+
+---
+
 # 🛠️ Tech Stack
 
 ## ☁️ Cloud & Big Data
