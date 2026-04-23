@@ -44,7 +44,9 @@
 
 - **DP-600 – Microsoft Fabric Analytics Engineer Associate**  
   Focuses on analytics engineering, semantic models, and Power BI in Microsoft Fabric.
-
+  
+- **SnowPro Associate: Platform Certification – Snowflake**
+  Covers Snowflake architecture, data loading/unloading, performance optimization, and core data platform capabilities.
 ---
 
 # 🛠️ Tech Stack
